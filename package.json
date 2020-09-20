@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "peerDependencies": {},
+  "prettier": {
+    "printWidth": 80,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "es5"
+  },
+  "name": "@phamdongtruong99/test123",
+  "author": "doshi",
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
